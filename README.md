@@ -34,7 +34,9 @@ pip install -r requirements.txt
 安装完成后，使用 `nvidia-smi` 指令查看版本：
 
 ```shell
-nvidia-smi          
+nvidia-smi
+```
+```shell       
 Fri Mar  1 11:16:55 2024
 +-----------------------------------------------------------------------------+
 | NVIDIA-SMI 529.08       Driver Version: 529.08       CUDA Version: 12.0     |
