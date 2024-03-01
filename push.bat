@@ -1,4 +1,4 @@
 @echo off
 git add .
-git commit -m "readme"
+git commit -m "检查torch"
 git push
