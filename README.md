@@ -74,3 +74,10 @@ set OPENAI_API_KEY=你的-api-key
 
 
 
+关于requirements,大家可以视情况下载
+```bash
+pip install -r requirements.txt
+```
+
+
+祝学习进步
