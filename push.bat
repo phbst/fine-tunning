@@ -1,4 +1,4 @@
 @echo off
 git add .
-git commit -m "Langchain"
+git commit -m "quant"
 git push
