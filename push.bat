@@ -1,4 +1,4 @@
 @echo off
 git add .
-git commit -m "model_quant"
+git commit -m "PEFT"
 git push
