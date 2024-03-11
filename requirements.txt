@@ -1,4 +1,4 @@
-torch>=2.1.2
+python -m bitsandbytestorch>=2.1.2
 transformers
 ffmpeg
 ffmpeg-python
